@@ -23,7 +23,7 @@ const Subtitle = styled.p`
 function Header() {
   return (
     <HeaderContainer>
-      <Title>360° Feedback</Title>
+      <Title>360° Feedback (Beta)</Title>
       <Subtitle>
         Share your valuable insights with our AI assistant.
       </Subtitle>
